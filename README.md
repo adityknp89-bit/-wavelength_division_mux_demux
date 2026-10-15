@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>information technology
 :--|:--|
 <b> Lab | <b> virtual lab
 <b> Experiment|     <b> Wavelenght division  multiplexing and Demultiplexing design
