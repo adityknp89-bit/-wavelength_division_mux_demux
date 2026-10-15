@@ -1,7 +1,7 @@
 ## Introduction
 
 
-<b>Discipline | <b>information technology
+<b>Information technology | <b>information technology
 :--|:--|
 <b> Lab | <b> virtual lab
 <b> Experiment|     <b> Wavelenght division  multiplexing and Demultiplexing design
